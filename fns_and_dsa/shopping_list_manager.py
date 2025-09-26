@@ -5,6 +5,8 @@ def display_menu():
     print("3. View List")
     print("4. Exit")
 
+print("shopping list manager")
+
 def main():
     shopping_list = []
     
